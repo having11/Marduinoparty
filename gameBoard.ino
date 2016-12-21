@@ -1,7 +1,7 @@
 /* pin assignments:
  * LCD RS: 12, LCD E: 13, LCD 4: 5,LCD 5: 4, LCD 6: 3, LCD 7: 2
  * Button Left: 6, Button Middle: 7, Button Right: 8, Servo Player 1: 9, Servo Player 2: 10, Servo Player 3: 11
- * LED Left: A0, LED Middle: A1, LED Right: A2
+ * LED Left: A3, LED Middle: A2, LED Right: A1
  */
  #include <Servo.h>
  #include <LiquidCrystal.h>
